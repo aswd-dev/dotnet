@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Qinshift.FirstConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3580faa22c8be39cc876f521ed650d4c86bcf6dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Qinshift.FirstConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Qinshift.FirstConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
